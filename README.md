@@ -29,6 +29,6 @@ python -m pip install -r requirements.txt
 │   └── trading_view.png
 │
 └── uml/
-    ├── use_case_diagram.png
-    ├── class_diagram.png
-    └── sequence_diagram.png
+    ├── Діаграма прецедентів.png
+    ├── Діаграма класів.png
+    └── Діаграма взаємодії.png
